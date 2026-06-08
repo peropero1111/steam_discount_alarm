@@ -24,6 +24,11 @@ steam_discount_alarm
 11. 시작 위치 에 다음과 같이 입력하여 주십시오  C:\Users\~ alarm.py 를 놓은 폴더 경로 주소 ~
 
  주의! 시작 위치에는 따옴표가 없습니다.
+
+추가 <2026_06_08>
+
+간혹 노트북에서 작동이 되지 아니할 경우 설정 메뉴로 가셔서 "컴퓨터가 AC 전원으로 실행 중인 경우에만 작업 시작" 과 "컴퓨터가 배터리 전원으로 전환되면 중지" 를 모두 체크 해제 하여 주십시오.
+
 ```
 </br>
 </br>
@@ -46,4 +51,10 @@ steam_discount_alarm
 ![](https://github.com/peropero1111/steam_discount_alarm/blob/main/img/2026-06-06%20222357.png)
 </br>
 </br>
-![](https://github.com/peropero1111/steam_discount_alarm/blob/main/img/2026-06-06%20222643.png)  
+![](https://github.com/peropero1111/steam_discount_alarm/blob/main/img/2026-06-06%20222643.png)
+</br>
+</br>
+추가 <2026_06_08>
+</br>
+</br>
+<img src="https://github.com/peropero1111/steam_discount_alarm/blob/main/img/2026-06-08%20122117.png" width="450" height="450"/>  
