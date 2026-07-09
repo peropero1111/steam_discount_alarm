@@ -1,11 +1,9 @@
 
 # steam_discount_alarm
-steam_discount_alarm
+
+### 이 steam_discount_alarm 은 codex 의 도움이 들어갔습니다.
 </br>
-</br>
-이 steam_discount_alarm 은 codex 의 도움이 들어갔습니다.
-</br>
-</br>
+
 사용하시기전에 다음 절차를 따라 주십시오.  
 아래에 더욱 쉬운 이해를 위한 이미지가 있습니다.
 </br>
