@@ -35,22 +35,15 @@ Corporation.
 
 ## 2. Steam Trademark Notice
 
-Valve provides separate branding and trademark requirements governing the use
-of the Steam name, Steam logo, and other Valve branding.
+Steam, Valve, and related names, marks, and logos are trademarks and/or
+registered trademarks of Valve Corporation in the United States and/or
+other countries.
 
-This project does not grant users any right to use Valve's trademarks, logos,
-or other brand assets.
+This project does not use or distribute the Steam logo as part of its
+MIT-licensed source code.
 
-Any use of Steam branding must comply with Valve's applicable branding and
-trademark guidelines.
-
-Valve's current legal attribution for the Steam brand is:
-
-> ©2026 Valve Corporation. Steam and the Steam logo are trademarks and/or
-> registered trademarks of Valve Corporation in the U.S. and/or other
-> countries.
-
-The Steam logo is not part of this project's MIT-licensed source code.
+Any use of Valve branding or trademark assets must comply with Valve's
+applicable branding and trademark guidelines.
 
 ---
 
@@ -87,24 +80,27 @@ purchase.
 
 ## 4. Steam Web API and Other Steam Endpoints
 
-Where this project accesses functionality governed by the Steam Web API Terms
-of Use, such access and use remain subject to Valve's Steam Web API Terms of
-Use and other applicable Valve policies.
+This project currently retrieves Steam Store information from a
+Valve-operated endpoint hosted at `api.steampowered.com`.
 
-The Steam Web API, Steam-provided data, and Valve branding are separate from
-the source code distributed under this project's MIT License.
+The endpoint currently used by the project is:
 
-Nothing in this repository grants additional rights to access, reproduce,
-redistribute, or commercially exploit Steam services or Steam-provided data
-beyond the rights granted by Valve under its applicable terms.
+`IStoreBrowseService/GetItems/v1`
 
-Users and distributors who modify this project to use a Steam Web API key are
-responsible for complying with Valve's requirements applicable to that key,
-including any confidentiality, usage, privacy, and data-handling requirements.
+This interface is not currently documented in Valve's public Steamworks
+Web API reference. Its availability, authentication requirements, request
+format, response format, or behavior may change without notice.
 
-Steam API keys, authentication credentials, or other private credentials
-should never be committed to a public repository or distributed with the
-source code.
+Where access to this or other Steam endpoints is governed by the Steam Web
+API Terms of Use or other Valve terms, users and distributors are
+responsible for complying with those applicable terms.
+
+The Steam Web API, Steam-provided data, and Valve services are separate
+from the source code distributed under this project's MIT License.
+
+If a future version of this project requires a Steam Web API key, that key
+must not be committed to this repository or distributed with the source
+code.
 
 ---
 
