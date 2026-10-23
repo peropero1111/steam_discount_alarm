@@ -4,7 +4,10 @@
 ### 이 steam_discount_alarm 은 codex 의 도움이 들어갔습니다.
 </br>
 
+[releases](https://github.com/peropero1111/steam_discount_alarm/releases/tag/v1.0.1) 페이지에서 py 파일을 내려받을 수 있습니다. 
+
 사용하시기전에 다음 절차를 따라 주십시오.  
+
 아래에 더욱 쉬운 이해를 위한 이미지가 있습니다.
 </br>
 </br>
